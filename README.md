@@ -1,5 +1,5 @@
 # Minecraft Files
-Files and APKs are managed by unknown_grass/DienLord
+Files and APK are managed by unknown_grass/DienLord
 ### 🎮 Minecraft Platform 
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B047?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Minecraft Bedrock](https://img.shields.io/badge/Bedrock_Edition-62B047?style=for-the-badge&logo=minecraft&logoColor=white)
